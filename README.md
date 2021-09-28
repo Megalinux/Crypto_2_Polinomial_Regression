@@ -3,7 +3,7 @@ Use of polynomial regression to calculate the future value of the price of a cry
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)](https://en.cryptobadges.io/donate/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)
 
-* Crypto_2_Polinomial_Regression is a tool in Python used for calculating the future price of a cryptocurrency pair. The tool uses the CCXT library to download the pair data from an Exchange, in this case, Binance.
+* Crypto_2_Polinomial_Regression is a tool in Python used for calculating the future price of a cryptocurrency pair. The tool uses the CCXT library to download the pair data from an exchange, in this case, Binance.
 * Version 0.0.1
 
 ### Disclaimer ###
