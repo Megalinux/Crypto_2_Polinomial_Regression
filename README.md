@@ -22,7 +22,8 @@ We strongly recommend you to have coding and Python knowledge. Do not hesitate t
 
 1. In terminal/cmd go to Your main project's folder.
 2. Run Polinomial Regression tool by command: python3 crypto_2_polinomial_regression_v1
-    Example of run Polinomial Regression:
+   
+   Example of run Polinomial Regression:
 
     * `python3 crypto_2_polinomial_regression_v1
 
