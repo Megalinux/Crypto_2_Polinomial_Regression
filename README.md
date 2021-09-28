@@ -14,7 +14,8 @@ We strongly recommend you to have coding and Python knowledge. Do not hesitate t
 
 ### Features ###
 
-* Calculare the price of cryptocurrency pair with Polinomial Regression
+* Calculate the price 'Close' of cryptocurrency pair with Polinomial Regression
+* Using the MSE value to calculate the approximation of functions
 * Support of CryptoCurrency eXchange Trading Library [CCXT](https://github.com/ccxt/ccxt)
 
 ### Run ###
