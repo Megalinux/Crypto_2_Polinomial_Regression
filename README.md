@@ -53,4 +53,4 @@ Have you a great idea to improve the bot you want to share? Please, first search
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © Grando Ruggero.
+- Copyright 2021 © Grando Ruggero.
