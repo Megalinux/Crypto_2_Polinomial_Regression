@@ -39,7 +39,7 @@ We strongly recommend you to have coding and Python knowledge. Do not hesitate t
 
 ### Support ###
 
-For any questions not covered by the documentation or for further information about the backtester, we encourage you to send an email to webmaster@megalinux.it
+For any questions not covered by the documentation or for further information about the backtester, we encourage you to send an email to webmaster@megalinux.cloud
 
 ### Bugs / Issues ###
 
