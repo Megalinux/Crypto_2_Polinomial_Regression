@@ -71,11 +71,11 @@ plt.plot(f,p1,'--', label = 'regression 3 degree')
 plt.plot(f,p, '--', label = 'regression 5 degree') 
 plt.plot(f,p2,'--', label = 'regression 7 degree')
 plt.legend()
-plt.show()
+
 
 #Set the labels in the fifth degree function
-for a,b in zip(f, p2): 
-    plt.text(a, b, "{:.12f}".format(b))
+"""for a,b in zip(f, p2): 
+    plt.text(a, b, "{:.12f}".format(b))"""
 plt.show()
 
 #Calculate the step of 15 minute for the future value
@@ -84,6 +84,7 @@ d = 2+c
 
 #Calcolate the future value (in this case 15 minute) of the seventh degree function.
 predetto7grado = np.polyval(reg2,d)
+print('Future 15 minute value of price ETH/BTC: ')
 print('%.12f' % predetto7grado) 
 
 
