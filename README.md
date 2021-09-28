@@ -3,9 +3,7 @@ Use of polynomial regression to calculate the future value of the price of a cry
 
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)](https://en.cryptobadges.io/donate/3EJZiSmqRkoZ48ae2pYbKupMYQqoQvxdxe)
 
-* Backtesting is a process of applying a strategy to historical data with the objective to determine wich implemented strategy is the best in terms of profit. The profit is determined by sell and buy transactions. 
-
-* Crypto_2_Polinomial_Regression is a tool of .
+* Crypto_2_Polinomial_Regression is a tool in Python used for calculating the future price of a crypto pair. The tool uses the CCXT library to download the pair data (in this case, Binance)..
 * Version 0.0.1
 
 ### Disclaimer ###
